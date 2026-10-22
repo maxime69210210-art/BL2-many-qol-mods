@@ -12,10 +12,6 @@ A customizable compilation of **Many QoL mods**, with additional settings for th
 exec BL2_Combined.txt
 ```
 
-4. Open the **Badass Rank** tab. The yellow **BL2 Combined - Fusion chargee** message identifies this compilation as loaded. It does not verify every feature individually.
-
-Load this compilation on its own, without also executing the three original files. It includes references to DLC content, including Commander Lilith for Haderax and Digistruct Peak for its chests. Those features require their respective DLC.
-
 ## Customizing the mods in OpenBLCMM
 
 In [OpenBLCMM](https://github.com/BLCM/OpenBLCMM), choose **File → Open** and select `BL2_Combined.txt`to change setting as you like.
